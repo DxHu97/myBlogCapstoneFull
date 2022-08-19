@@ -1,0 +1,27 @@
+.funny {
+	font-style: italic;
+	color: green;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+
+
+#bg {
+  background: url('https://images.wallpaperscraft.com/image/single/moon_tree_starry_sky_132139_1280x720.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+a
+{
+    text-decoration: none;
+    color: transparent;
+}
+
+a:hover
+{
+    color: black;
+}
